@@ -48,7 +48,7 @@ public class Tester : MonoBehaviour
 }
 
 [System.Serializable]
-public class CsvSampleClass : ModelBase
+public class CsvSampleClass
 {
     public string name;
     public float hp;
